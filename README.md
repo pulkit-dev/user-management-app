@@ -105,10 +105,4 @@ user-management-app/
 - React: For building the UI.
 - Axios: For handling HTTP requests.
 
----
-
-## Author
-[Your Name](https://github.com/your-username)
-
-Feel free to contribute or report issues!
 
